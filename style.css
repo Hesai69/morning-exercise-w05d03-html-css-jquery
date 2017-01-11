@@ -1,0 +1,11 @@
+.inner {
+  display: inline-block;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+#bigBox {
+  display: block;
+  background-color: pink;
+  height: 400px;
+}
